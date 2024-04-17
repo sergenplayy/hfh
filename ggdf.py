@@ -11,4 +11,4 @@ a = 'ghbdsn'
 res = ''
 for i in a:
     res += keyboard_mapping.get(i,'?')
-print(res)
+print("good")
